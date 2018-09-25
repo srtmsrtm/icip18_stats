@@ -1,7 +1,12 @@
 ## a few statistics of IEEE ICIP 2018 https://2018.ieeeicip.org/default.asp
 
-![Link Text](https://github.com/vi/LAoADjwoW4Q/0.jpg)]
-![Link Text](https://github.com/vi/E5L7IvL8ZNI/0.jpg)]
+The number of accepted papers w.r.t. paper IDs
+
+![Link Text](https://github.com/srtmsrtm/icip18_stats/blob/master/hist_icip18.png)
+
+A wordcloud of paper titles
+
+![Link Text](https://github.com/srtmsrtm/icip18_stats/blob/master/wordcloud_icip18.png)
 
 ## Installation
 
