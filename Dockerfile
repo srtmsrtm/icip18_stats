@@ -51,11 +51,4 @@ RUN /root/.pyenv/shims/pip install numpy scipy matplotlib pandas h5py networkx p
 
 #
 COPY src /root/src
-#RUN mkdir -p /root/src
-#RUN git clone https://github.com/amueller/word_cloud /root/src/word_cloud
-#RUN git clone https://github.com/pjreddie/darknet /root/src/darknet
-#RUN wget https://pjreddie.com/media/files/yolov3.weights -O /root/src/darknet/yolov3.weights
-#COPY ytvideos /root/ytvideos
-#COPY Makefile /root/src/darknet/Makefile
-#COPY run.py /root/src/darknet/run.py
 
